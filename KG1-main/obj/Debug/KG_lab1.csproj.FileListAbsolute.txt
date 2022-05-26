@@ -1,0 +1,9 @@
+C:\Users\Eva\Desktop\KG1-main\bin\Debug\Lab1KG.exe.config
+C:\Users\Eva\Desktop\KG1-main\bin\Debug\Lab1KG.exe
+C:\Users\Eva\Desktop\KG1-main\bin\Debug\Lab1KG.pdb
+C:\Users\Eva\Desktop\KG1-main\obj\Debug\Lab1KG.Form1.resources
+C:\Users\Eva\Desktop\KG1-main\obj\Debug\Lab1KG.Properties.Resources.resources
+C:\Users\Eva\Desktop\KG1-main\obj\Debug\KG_lab1.csproj.GenerateResource.cache
+C:\Users\Eva\Desktop\KG1-main\obj\Debug\KG_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Eva\Desktop\KG1-main\obj\Debug\Lab1KG.exe
+C:\Users\Eva\Desktop\KG1-main\obj\Debug\Lab1KG.pdb
